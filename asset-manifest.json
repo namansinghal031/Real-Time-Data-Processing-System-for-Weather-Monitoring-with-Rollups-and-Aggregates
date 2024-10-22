@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32b7b2d2.css",
+    "main.js": "/static/js/main.3885d055.js",
+    "static/media/coldday.jpg": "/static/media/coldday.f406f71352f0ec6efbff.jpg",
+    "static/media/hotday.jpg": "/static/media/hotday.6bffa575c9737aeaa622.jpg",
+    "index.html": "/index.html",
+    "main.32b7b2d2.css.map": "/static/css/main.32b7b2d2.css.map",
+    "main.3885d055.js.map": "/static/js/main.3885d055.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32b7b2d2.css",
+    "static/js/main.3885d055.js"
+  ]
+}
